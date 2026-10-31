@@ -1,5 +1,5 @@
 # MediQue
-A web application for browsing doctor availability and booking appointments.
+OJT project
 
 # 🏥 MediQue — Smart Healthcare Appointment Booking
 
