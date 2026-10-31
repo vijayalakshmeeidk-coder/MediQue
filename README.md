@@ -78,20 +78,6 @@ MediQue/
 
 *Files will be added as development progresses.*
 
-## 🚀 Getting Started
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/vijayalakshmeeidk-coder/MediQue.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-No additional installation is required for the current HTML prototype.
-
 ## 🔮 Future Improvements
 
 * User authentication and role-based access.
